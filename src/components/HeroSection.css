@@ -70,3 +70,7 @@ video {
     width: 100%;
   }
 }
+
+video {
+  filter: brightness(60%);
+}
