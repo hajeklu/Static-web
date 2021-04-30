@@ -77,7 +77,7 @@ video {
      top: 0px;
      left: 0px;
      min-width: 100%;
-     min-height: 100%;
+     min-height: 110%;
      height: auto;
      z-index: -1000;
      overflow: hidden;
