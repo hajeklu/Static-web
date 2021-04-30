@@ -14,7 +14,7 @@ function HeroSection() {
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
-          href='/menu'
+          href='misc/menu'
         >
           JÍDELNÍ MENU
         </Button>
