@@ -6,9 +6,9 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src='/videos/video-3-fullhd.mp4' autoPlay loop muted/>
+      <video src='/videos/video-3-fullhd-compress.mp4' autoPlay loop muted/>
       <h1>Kebab a Pizza Reina</h1>
-      <p>Věříme že poctivá práce, má smysl</p>
+      <p>Věříme že poctivá práce, má smysl.</p>
       <div className='hero-btns'>
         <Button
           className='btns'
