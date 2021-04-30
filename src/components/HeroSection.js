@@ -15,6 +15,7 @@ function HeroSection() {
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
+          href='/menu'
         >
           JÍDELNÍ MENU
         </Button>
@@ -22,6 +23,7 @@ function HeroSection() {
           className='btns'
           buttonStyle='btn--primary'
           buttonSize='btn--large'
+          href='tel:725776260'
         >
           OBJEDNAT  <i className='fa fa-phone' />
         </Button>

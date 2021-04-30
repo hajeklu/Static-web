@@ -13,13 +13,13 @@ function Cards() {
               src='images/img-10.jpg'
               text='Dürüm kebab s vepřovým masem a čerstvým salátem'
               label='250g'
-              path='/services'
+              path='/menu'
             />
             <CardItem
               src='images/img-11.jpg'
               text='Lahodná pizza z Italského těsta'
               label='300g'
-              path='/services'
+              path='/menu'
             />
           </ul>
           <ul className='cards__items'>
@@ -27,19 +27,19 @@ function Cards() {
               src='images/img-12.jpg'
               text='Doner kebab v pravém tureckém chlebu'
               label='200g'
-              path='/services'
+              path='/menu'
             />
             <CardItem
               src='images/img-13.jpg'
               text='Zapečený masový toust se zelím, cibulí a sýrem'
               label='150g'
-              path='/products'
+              path='/menu'
             />
             <CardItem
               src='images/img-14.jpg'
               text='Řecký salát pro ty co maso moc nemusí'
               label='300g'
-              path='/sign-up'
+              path='/menu'
             />
           </ul>
         </div>
