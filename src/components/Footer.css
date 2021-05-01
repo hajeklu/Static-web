@@ -158,10 +158,11 @@
     flex-direction: column;
   }
   .footer-link-items {
-    height: 50%;
+    height: 25vh;
     text-align: center;
     align-items: center;
     padding: 0 10px;
+    width: auto;
   }
 }
 
